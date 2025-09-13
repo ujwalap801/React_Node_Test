@@ -30,7 +30,7 @@ This project provides a simple backend for handling user registration, login, JW
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/React_Node_Test.git
-   React_Node_Test
+   cd  React_Node_Test
 
 
 2. Install dependencies:
